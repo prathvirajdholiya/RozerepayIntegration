@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RozerPay Intigration</string>
+    <string name="enter_amount_to_pay">Enter Amount to Pay</string>
+    <string name="pay">Pay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+       <string name="profile_fragment">Profile Fragment</string>
+    <string name="home_fragment">Home</string>
+    <string name="order_fragment">Order</string>
+    <string name="points_fragment">Points</string>
+    <string name="home">Home</string>
+    <string name="points">Points</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
+    <string name="you_re_currently_on_level_4_n_check_your_benefits">You’re currently on Level 4 \n Check your benefits</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+</resources>
